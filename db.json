@@ -215,6 +215,18 @@
                 "stipendType": "BETWEEN",
                 "companyName": "HyperVerge",
                  "appliedCount": 1540
+            },
+
+               {
+                "minCtc": 0,
+                "maxCtc": 900000,
+                "jobTitle": "Databricks : University Hiring 2023",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-02 00:00:00",
+                "location": "Bangalore",
+                "stipendType": "FIXED",
+                "companyName": "Databricks",
+                "appliedCount": 503
             }
         ]
     },
