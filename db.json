@@ -31,19 +31,19 @@
                 "jobApplyBy": "2022-08-03 00:00:00",
                 "location": "Bengaluru",
                 "stipendType": "BETWEEN",
-                "companyName": "HyperVerge",
+                "companyName": "Amazon",
                  "appliedCount": 1540
             },
             
 {
                 "minCtc": 0,
                 "maxCtc": 900000,
-                "jobTitle": "Databricks : University Hiring 2023",
+                "jobTitle": "Tally Solutions - Circuit Branches- CS/ ECE/ EEE/EAC/CCE/ AIE",
                 "jobStatus": "IN_PROGRESS",
                 "jobApplyBy": "2022-08-02 00:00:00",
                 "location": "Bangalore",
                 "stipendType": "FIXED",
-                "companyName": "Amazon",
+                "companyName": "Tally Solutions",
                 "appliedCount": 503
             },
             {
@@ -60,24 +60,46 @@
 {
                 "minCtc": 0,
                 "maxCtc": 900000,
-                "jobTitle": "Databricks : University Hiring 2023",
+                "jobTitle": "Western Digital SanDisk for 2023 Batch",
                 "jobStatus": "IN_PROGRESS",
                 "jobApplyBy": "2022-08-02 00:00:00",
                 "location": "Bangalore",
                 "stipendType": "FIXED",
-                "companyName": "Databricks",
+                "companyName": "Western Digital SanDisk",
                 "appliedCount": 503
             },
 
             {
                 "minCtc": 1200000,
                 "maxCtc": 2100000,
-                "jobTitle": "HyperVerge - Opportunity for B. Tech, M. Tech 2023 POB",
+                "jobTitle": "GE Digital for 2023 batch",
                 "jobStatus": "IN_PROGRESS",
                 "jobApplyBy": "2022-08-03 00:00:00",
                 "location": "Bengaluru",
                 "stipendType": "BETWEEN",
-                "companyName": "HyperVerge",
+                "companyName": "GE Digital",
+                 "appliedCount": 1540
+            },
+            {
+                "minCtc": 0,
+                "maxCtc": 900000,
+                "jobTitle": "PwC TC Additional Data : Associate /Consultant level",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-02 00:00:00",
+                "location": "Bangalore",
+                "stipendType": "FIXED",
+                "companyName": "PwC",
+                "appliedCount": 503
+            },
+            {
+                "minCtc": 1200000,
+                "maxCtc": 2100000,
+                "jobTitle": "HEXAWARE TECHNOLOGIES for 2023",
+                "jobStatus": "IN_PROGRESS",
+                "jobApplyBy": "2022-08-03 00:00:00",
+                "location": "Bengaluru",
+                "stipendType": "BETWEEN",
+                "companyName": "HEXAWARE TECHNOLOGIES",
                  "appliedCount": 1540
             },
             {
@@ -94,138 +116,116 @@
             {
                 "minCtc": 1200000,
                 "maxCtc": 2100000,
-                "jobTitle": "HyperVerge - Opportunity for B. Tech, M. Tech 2023 POB",
+                "jobTitle": "Wonksknow Technologies India 2023 Batch",
                 "jobStatus": "IN_PROGRESS",
                 "jobApplyBy": "2022-08-03 00:00:00",
                 "location": "Bengaluru",
                 "stipendType": "BETWEEN",
-                "companyName": "HyperVerge",
-                 "appliedCount": 1540
-            },
-            {
-                "minCtc": 0,
-                "maxCtc": 900000,
-                "jobTitle": "Databricks : University Hiring 2023",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-02 00:00:00",
-                "location": "Bangalore",
-                "stipendType": "FIXED",
-                "companyName": "Databricks",
-                "appliedCount": 503
-            },
-            {
-                "minCtc": 1200000,
-                "maxCtc": 2100000,
-                "jobTitle": "HyperVerge - Opportunity for B. Tech, M. Tech 2023 POB",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-03 00:00:00",
-                "location": "Bengaluru",
-                "stipendType": "BETWEEN",
-                "companyName": "HyperVerge",
+                "companyName": "Wonksknow Technologies",
                  "appliedCount": 1540
             },
               {
                 "minCtc": 0,
                 "maxCtc": 900000,
-                "jobTitle": "Databricks : University Hiring 2023",
+                "jobTitle": "Open Financial Technologies Private Limited-Associate software Engineer",
                 "jobStatus": "IN_PROGRESS",
                 "jobApplyBy": "2022-08-02 00:00:00",
                 "location": "Bangalore",
                 "stipendType": "FIXED",
-                "companyName": "Databricks",
+                "companyName": "Open Financial Technologies Private Limited",
                 "appliedCount": 503
             },
             {
                 "minCtc": 1200000,
                 "maxCtc": 2100000,
-                "jobTitle": "HyperVerge - Opportunity for B. Tech, M. Tech 2023 POB",
+                "jobTitle": "TheMathCompany for BTech other branches",
                 "jobStatus": "IN_PROGRESS",
                 "jobApplyBy": "2022-08-03 00:00:00",
                 "location": "Bengaluru",
                 "stipendType": "BETWEEN",
-                "companyName": "HyperVerge",
+                "companyName": "TheMathCompany",
                  "appliedCount": 1540
             },
                {
                 "minCtc": 0,
                 "maxCtc": 900000,
-                "jobTitle": "Databricks : University Hiring 2023",
+                "jobTitle": "Silicon Labs India (Software)",
                 "jobStatus": "IN_PROGRESS",
                 "jobApplyBy": "2022-08-02 00:00:00",
                 "location": "Bangalore",
                 "stipendType": "FIXED",
-                "companyName": "Databricks",
+                "companyName": "Silicon Labs India",
                 "appliedCount": 503
             },
 
 {
                 "minCtc": 1200000,
                 "maxCtc": 2100000,
-                "jobTitle": "HyperVerge - Opportunity for B. Tech, M. Tech 2023 POB",
+                "jobTitle": "Caterpillar - Campus recruitment for 2023 batch",
                 "jobStatus": "IN_PROGRESS",
                 "jobApplyBy": "2022-08-03 00:00:00",
                 "location": "Bengaluru",
                 "stipendType": "BETWEEN",
-                "companyName": "HyperVerge",
+                "companyName": "Caterpillar",
                  "appliedCount": 1540
             },
 
                {
                 "minCtc": 0,
                 "maxCtc": 900000,
-                "jobTitle": "Databricks : University Hiring 2023",
+                "jobTitle": "Josh Technology Group",
                 "jobStatus": "IN_PROGRESS",
                 "jobApplyBy": "2022-08-02 00:00:00",
                 "location": "Bangalore",
                 "stipendType": "FIXED",
-                "companyName": "Databricks",
+                "companyName": "Josh Technology Group",
                 "appliedCount": 503
             },
 
 {
                 "minCtc": 1200000,
                 "maxCtc": 2100000,
-                "jobTitle": "HyperVerge - Opportunity for B. Tech, M. Tech 2023 POB",
+                "jobTitle": "TheMathCompany",
                 "jobStatus": "IN_PROGRESS",
                 "jobApplyBy": "2022-08-03 00:00:00",
                 "location": "Bengaluru",
                 "stipendType": "BETWEEN",
-                "companyName": "HyperVerge",
+                "companyName": "TheMathCompany",
                  "appliedCount": 1540
             },
 
                {
                 "minCtc": 0,
                 "maxCtc": 900000,
-                "jobTitle": "Databricks : University Hiring 2023",
+                "jobTitle": "Chemfab Alkalis for 2023 Batch",
                 "jobStatus": "IN_PROGRESS",
                 "jobApplyBy": "2022-08-02 00:00:00",
                 "location": "Bangalore",
                 "stipendType": "FIXED",
-                "companyName": "Databricks",
+                "companyName": "Chemfab Alkalis Limited",
                 "appliedCount": 503
             },
             {
                 "minCtc": 1200000,
                 "maxCtc": 2100000,
-                "jobTitle": "HyperVerge - Opportunity for B. Tech, M. Tech 2023 POB",
+                "jobTitle": "Acies Global- B.Tech and M.Tech- 2023 Batch",
                 "jobStatus": "IN_PROGRESS",
                 "jobApplyBy": "2022-08-03 00:00:00",
                 "location": "Bengaluru",
                 "stipendType": "BETWEEN",
-                "companyName": "HyperVerge",
+                "companyName": "Acies Global",
                  "appliedCount": 1540
             },
 
                {
                 "minCtc": 0,
                 "maxCtc": 900000,
-                "jobTitle": "Databricks : University Hiring 2023",
+                "jobTitle": "Kaleyra for B.Tech - 2023 Batch",
                 "jobStatus": "IN_PROGRESS",
                 "jobApplyBy": "2022-08-02 00:00:00",
                 "location": "Bangalore",
                 "stipendType": "FIXED",
-                "companyName": "Databricks",
+                "companyName": "Kaleyra",
                 "appliedCount": 503
             }
         ]
