@@ -1612,7 +1612,7 @@
       "templated" : true
     },
     "next" : {
-      "href" : "https://app.haveloc.com/brokerage/jobSubViews?page=1&size=20&sort=lastModifiedDate,desc"
+      "href" : "https://my-json-server.typicode.com/vamsikrishnacse/fulltime/db"
     },
     "last" : {
       "href" : "https://app.haveloc.com/brokerage/jobSubViews?page=3&size=20&sort=lastModifiedDate,desc"
