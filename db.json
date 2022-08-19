@@ -239,7 +239,7 @@
             "templated": true
         },
         "next": {
-            "href": "https://my-json-server.typicode.com/vamsikrishnacse/fulltime/db"
+            "href": "https://my-json-server.typicode.com/vamsikrishnacse/fulltime2/db"
         },
         "last": {
             "href": "https://app.haveloc.com/brokerage/jobViews?page=2&size=20&sort=lastModifiedDate,desc"
