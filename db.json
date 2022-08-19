@@ -1,253 +1,1627 @@
 {
-    "_embedded": {
-        "entityModels": [
-            {
-                "minCtc": 1200000,
-                "maxCtc": 2100000,
-                "jobTitle": "HyperVerge - Opportunity for B. Tech, M. Tech 2023 POB",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-03 00:00:00",
-                "location": "Bengaluru",
-                "stipendType": "BETWEEN",
-                "companyName": "HyperVerge",
-                 "appliedCount": 1540
-            },
-            {
-                "minCtc": 0,
-                "maxCtc": 900000,
-                "jobTitle": "MathWorks - Associate/ Engineer / Senior Engineer in Engineering Development. Intern in Engineering Development.",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-02 00:00:00",
-                "location": "Bangalore",
-                "stipendType": "FIXED",
-                "companyName": "MathWorks",
-                "appliedCount": 503
-            },
-            {
-                "minCtc": 1200000,
-                "maxCtc": 2100000,
-                "jobTitle": "Amazon Non Tech Hiring 2023 Batch",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-03 00:00:00",
-                "location": "Bengaluru",
-                "stipendType": "BETWEEN",
-                "companyName": "Amazon",
-                 "appliedCount": 1540
-            },
-            
-{
-                "minCtc": 0,
-                "maxCtc": 900000,
-                "jobTitle": "Tally Solutions - Circuit Branches- CS/ ECE/ EEE/EAC/CCE/ AIE",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-02 00:00:00",
-                "location": "Bangalore",
-                "stipendType": "FIXED",
-                "companyName": "Tally Solutions",
-                "appliedCount": 503
-            },
-            {
-                "minCtc": 1200000,
-                "maxCtc": 2100000,
-                "jobTitle": "Maxlinear - hiring Engineer profile -2023 POB",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-03 00:00:00",
-                "location": "Bengaluru",
-                "stipendType": "BETWEEN",
-                "companyName": "Max Linear",
-                 "appliedCount": 1540
-            },
-{
-                "minCtc": 0,
-                "maxCtc": 900000,
-                "jobTitle": "Western Digital SanDisk for 2023 Batch",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-02 00:00:00",
-                "location": "Bangalore",
-                "stipendType": "FIXED",
-                "companyName": "Western Digital SanDisk",
-                "appliedCount": 503
-            },
-
-            {
-                "minCtc": 1200000,
-                "maxCtc": 2100000,
-                "jobTitle": "GE Digital for 2023 batch",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-03 00:00:00",
-                "location": "Bengaluru",
-                "stipendType": "BETWEEN",
-                "companyName": "GE Digital",
-                 "appliedCount": 1540
-            },
-            {
-                "minCtc": 0,
-                "maxCtc": 900000,
-                "jobTitle": "PwC TC Additional Data : Associate /Consultant level",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-02 00:00:00",
-                "location": "Bangalore",
-                "stipendType": "FIXED",
-                "companyName": "PwC",
-                "appliedCount": 503
-            },
-            {
-                "minCtc": 1200000,
-                "maxCtc": 2100000,
-                "jobTitle": "HEXAWARE TECHNOLOGIES for 2023",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-03 00:00:00",
-                "location": "Bengaluru",
-                "stipendType": "BETWEEN",
-                "companyName": "HEXAWARE TECHNOLOGIES",
-                 "appliedCount": 1540
-            },
-            {
-                "minCtc": 0,
-                "maxCtc": 900000,
-                "jobTitle": "Databricks : University Hiring 2023",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-02 00:00:00",
-                "location": "Bangalore",
-                "stipendType": "FIXED",
-                "companyName": "Databricks",
-                "appliedCount": 503
-            },
-            {
-                "minCtc": 1200000,
-                "maxCtc": 2100000,
-                "jobTitle": "Wonksknow Technologies India 2023 Batch",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-03 00:00:00",
-                "location": "Bengaluru",
-                "stipendType": "BETWEEN",
-                "companyName": "Wonksknow Technologies",
-                 "appliedCount": 1540
-            },
-              {
-                "minCtc": 0,
-                "maxCtc": 900000,
-                "jobTitle": "Open Financial Technologies Private Limited-Associate software Engineer",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-02 00:00:00",
-                "location": "Bangalore",
-                "stipendType": "FIXED",
-                "companyName": "Open Financial Technologies Private Limited",
-                "appliedCount": 503
-            },
-            {
-                "minCtc": 1200000,
-                "maxCtc": 2100000,
-                "jobTitle": "TheMathCompany for BTech other branches",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-03 00:00:00",
-                "location": "Bengaluru",
-                "stipendType": "BETWEEN",
-                "companyName": "TheMathCompany",
-                 "appliedCount": 1540
-            },
-               {
-                "minCtc": 0,
-                "maxCtc": 900000,
-                "jobTitle": "Silicon Labs India (Software)",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-02 00:00:00",
-                "location": "Bangalore",
-                "stipendType": "FIXED",
-                "companyName": "Silicon Labs India",
-                "appliedCount": 503
-            },
-
-{
-                "minCtc": 1200000,
-                "maxCtc": 2100000,
-                "jobTitle": "Caterpillar - Campus recruitment for 2023 batch",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-03 00:00:00",
-                "location": "Bengaluru",
-                "stipendType": "BETWEEN",
-                "companyName": "Caterpillar",
-                 "appliedCount": 1540
-            },
-
-               {
-                "minCtc": 0,
-                "maxCtc": 900000,
-                "jobTitle": "Josh Technology Group",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-02 00:00:00",
-                "location": "Bangalore",
-                "stipendType": "FIXED",
-                "companyName": "Josh Technology Group",
-                "appliedCount": 503
-            },
-
-{
-                "minCtc": 1200000,
-                "maxCtc": 2100000,
-                "jobTitle": "TheMathCompany",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-03 00:00:00",
-                "location": "Bengaluru",
-                "stipendType": "BETWEEN",
-                "companyName": "TheMathCompany",
-                 "appliedCount": 1540
-            },
-
-               {
-                "minCtc": 0,
-                "maxCtc": 900000,
-                "jobTitle": "Chemfab Alkalis for 2023 Batch",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-02 00:00:00",
-                "location": "Bangalore",
-                "stipendType": "FIXED",
-                "companyName": "Chemfab Alkalis Limited",
-                "appliedCount": 503
-            },
-            {
-                "minCtc": 1200000,
-                "maxCtc": 2100000,
-                "jobTitle": "Acies Global- B.Tech and M.Tech- 2023 Batch",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-03 00:00:00",
-                "location": "Bengaluru",
-                "stipendType": "BETWEEN",
-                "companyName": "Acies Global",
-                 "appliedCount": 1540
-            },
-
-               {
-                "minCtc": 0,
-                "maxCtc": 900000,
-                "jobTitle": "Kaleyra for B.Tech - 2023 Batch",
-                "jobStatus": "IN_PROGRESS",
-                "jobApplyBy": "2022-08-02 00:00:00",
-                "location": "Bangalore",
-                "stipendType": "FIXED",
-                "companyName": "Kaleyra",
-                "appliedCount": 503
-            }
-        ]
-    },
-    "_links": {
-        "first": {
-            "href": "https://app.haveloc.com/brokerage/jobViews?page=0&size=20&sort=lastModifiedDate,desc"
+  "_embedded" : {
+    "entityModels" : [ {
+      "id" : 251,
+      "minCtc" : 0.0,
+      "maxCtc" : 1403000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : null,
+      "jobTitle" : "ARM Campus Hiring  2023 Batch",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-08-19 16:07:34",
+      "jobApplyBy" : "2022-08-21 00:00:00",
+      "hiringStartDate" : "2022-08-21 00:00:00",
+      "location" : "Bangalore",
+      "duration" : null,
+      "jobTag" : "Engineering",
+      "workType" : "REGULAR",
+      "noOfOpenings" : "29",
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 183,
+      "companyName" : "ARM",
+      "webSiteLink" : "www.arm.com",
+      "imagePath" : "",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 551,
+      "isPublished" : true,
+      "createdBy" : "kb_dainy",
+      "createdDate" : "2022-08-19 16:07:34",
+      "lastModifiedBy" : "kb_dainy",
+      "lastModifiedDate" : "2022-08-19 16:07:34",
+      "genders" : [ "MALE", "FEMALE" ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "10:00:00",
+      "categoryId" : 3,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/251"
         },
-        "self": {
-            "href": "https://app.haveloc.com/brokerage/jobViews{?respectConfigProp}",
-            "templated": true
-        },"next" : {
-      "href" : "https://my-json-server.typicode.com/vamsikrishnacse/fulltime/db"
-    },
-        "last": {
-            "href": "https://app.haveloc.com/brokerage/jobViews?page=2&size=20&sort=lastModifiedDate,desc"
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/251"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/183"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/251"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/3"
         }
+      }
+    }, {
+      "id" : 250,
+      "minCtc" : 0.0,
+      "maxCtc" : 500000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 3,
+      "jobTitle" : "Finzly Development JAVA with framework",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-08-19 15:49:41",
+      "jobApplyBy" : "2022-08-20 00:00:00",
+      "hiringStartDate" : null,
+      "location" : "Chennai/Pune",
+      "duration" : null,
+      "jobTag" : null,
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 182,
+      "companyName" : "Finzly",
+      "webSiteLink" : "https://finzly.com/",
+      "imagePath" : "",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 259,
+      "isPublished" : true,
+      "createdBy" : "bhruguj",
+      "createdDate" : "2022-08-19 15:49:41",
+      "lastModifiedBy" : "bhruguj",
+      "lastModifiedDate" : "2022-08-19 15:49:41",
+      "genders" : [ ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "20:30:00",
+      "categoryId" : 2,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/250"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/250"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/182"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/250"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/2"
+        }
+      }
+    }, {
+      "id" : 249,
+      "minCtc" : 0.0,
+      "maxCtc" : 1100000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 3,
+      "jobTitle" : "IBM Diversity Drive 2023",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-08-19 13:53:30",
+      "jobApplyBy" : "2022-08-25 00:00:00",
+      "hiringStartDate" : null,
+      "location" : "NA",
+      "duration" : null,
+      "jobTag" : null,
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 128,
+      "companyName" : "IBM",
+      "webSiteLink" : "https://www.ibm.com/",
+      "imagePath" : "",
+      "studentSearchEnum" : "STUDENTS_NOT_OFFERED",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 31,
+      "isPublished" : true,
+      "createdBy" : "bhruguj",
+      "createdDate" : "2022-08-19 13:53:30",
+      "lastModifiedBy" : "bhruguj",
+      "lastModifiedDate" : "2022-08-19 13:53:30",
+      "genders" : [ "FEMALE" ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "09:00:00",
+      "categoryId" : 4,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/249"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/249"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/128"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/249"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/4"
+        }
+      }
+    }, {
+      "id" : 186,
+      "minCtc" : 700000.0,
+      "maxCtc" : 800000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 3,
+      "jobTitle" : "Elektrobit India Pvt.Ltd. for B.Tech/ M.Tech - 2023 batch ",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-07-13 16:46:17",
+      "jobApplyBy" : "2022-07-17 00:00:00",
+      "hiringStartDate" : "2022-07-20 00:00:00",
+      "location" : "Banglore",
+      "duration" : null,
+      "jobTag" : "Automobile Engineering",
+      "workType" : "REGULAR",
+      "noOfOpenings" : "96",
+      "incentives" : [ ],
+      "stipendType" : "BETWEEN",
+      "jobStartDate" : null,
+      "companyId" : 108,
+      "companyName" : "Elektrobit Automotive",
+      "webSiteLink" : "https://www.elektrobit.com",
+      "imagePath" : "",
+      "studentSearchEnum" : "STUDENTS_NOT_OFFERED",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 1153,
+      "isPublished" : true,
+      "createdBy" : "kb_dainy",
+      "createdDate" : "2022-07-13 16:46:17",
+      "lastModifiedBy" : "kb_dainy",
+      "lastModifiedDate" : "2022-08-19 12:48:07",
+      "genders" : [ "MALE", "FEMALE" ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "17:00:00",
+      "categoryId" : 4,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/186"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/186"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/108"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/186"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/4"
+        }
+      }
+    }, {
+      "id" : 212,
+      "minCtc" : 2107000.0,
+      "maxCtc" : 2425000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 5,
+      "jobTitle" : "MathWorks - Associate/ Engineer / Senior Engineer in Engineering Development. Intern in Engineering Development.",
+      "jobStatus" : "CLOSED",
+      "jobPostedDate" : "2022-07-29 15:32:51",
+      "jobApplyBy" : "2022-08-01 00:00:00",
+      "hiringStartDate" : null,
+      "location" : "Bangalore or Hyderabad",
+      "duration" : null,
+      "jobTag" : null,
+      "workType" : "REGULAR",
+      "noOfOpenings" : "25",
+      "incentives" : [ ],
+      "stipendType" : "BETWEEN",
+      "jobStartDate" : null,
+      "companyId" : 137,
+      "companyName" : "MathWorks",
+      "webSiteLink" : "https://in.mathworks.com/?s_tid=gn_logo",
+      "imagePath" : "",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 1157,
+      "isPublished" : true,
+      "createdBy" : "bhruguj",
+      "createdDate" : "2022-07-29 15:32:51",
+      "lastModifiedBy" : "bhruguj",
+      "lastModifiedDate" : "2022-08-19 11:38:56",
+      "genders" : [ ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "13:00:00",
+      "categoryId" : 3,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/212"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/212"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/137"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/212"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/3"
+        }
+      }
+    }, {
+      "id" : 248,
+      "minCtc" : 0.0,
+      "maxCtc" : 465000.0,
+      "payType" : "PER_MONTH",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : null,
+      "jobTitle" : "Tata Technologies FTE for 2023 ",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-08-18 15:47:05",
+      "jobApplyBy" : "2022-08-19 00:00:00",
+      "hiringStartDate" : "2022-08-22 00:00:00",
+      "location" : "Pune/Bangalore/Mumbai/",
+      "duration" : null,
+      "jobTag" : "Engineering",
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 181,
+      "companyName" : "Tata Technologies",
+      "webSiteLink" : "www.tatatechnologies.com",
+      "imagePath" : "",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 464,
+      "isPublished" : true,
+      "createdBy" : "kb_dainy",
+      "createdDate" : "2022-08-18 15:47:05",
+      "lastModifiedBy" : "kb_dainy",
+      "lastModifiedDate" : "2022-08-18 15:47:05",
+      "genders" : [ "MALE", "FEMALE" ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "10:00:00",
+      "categoryId" : 2,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/248"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/248"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/181"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/248"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/2"
+        }
+      }
+    }, {
+      "id" : 247,
+      "minCtc" : 0.0,
+      "maxCtc" : 650000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : null,
+      "jobTitle" : "Nivoda  Internship cum FTE opportunity for B.Tech 2023 ",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-08-18 11:53:10",
+      "jobApplyBy" : "2022-08-19 00:00:00",
+      "hiringStartDate" : "2022-08-22 00:00:00",
+      "location" : "Bangalore",
+      "duration" : null,
+      "jobTag" : "Analytics",
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 180,
+      "companyName" : "Nivoda",
+      "webSiteLink" : "https://nivoda.net/",
+      "imagePath" : "",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 286,
+      "isPublished" : true,
+      "createdBy" : "kb_dainy",
+      "createdDate" : "2022-08-18 11:53:10",
+      "lastModifiedBy" : "kb_dainy",
+      "lastModifiedDate" : "2022-08-18 12:35:29",
+      "genders" : [ "MALE", "FEMALE" ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "09:00:00",
+      "categoryId" : 2,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/247"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/247"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/180"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/247"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/2"
+        }
+      }
+    }, {
+      "id" : 239,
+      "minCtc" : 0.0,
+      "maxCtc" : 600000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 5,
+      "jobTitle" : "ZF CVS(GET, PGET) - B.Tech,M.Tech-2023",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-08-12 15:00:38",
+      "jobApplyBy" : "2022-08-16 00:00:00",
+      "hiringStartDate" : null,
+      "location" : "PAN India",
+      "duration" : null,
+      "jobTag" : "Engineering",
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 173,
+      "companyName" : "ZF Commercial Vehicle Control Systems India Limited",
+      "webSiteLink" : "https://www.zf.com/",
+      "imagePath" : "",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 534,
+      "isPublished" : true,
+      "createdBy" : "a_anandakumar",
+      "createdDate" : "2022-08-12 15:00:38",
+      "lastModifiedBy" : "a_anandakumar",
+      "lastModifiedDate" : "2022-08-15 10:50:50",
+      "genders" : [ "MALE", "FEMALE" ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "15:00:00",
+      "categoryId" : 2,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/239"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/239"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/173"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/239"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/2"
+        }
+      }
+    }, {
+      "id" : 241,
+      "minCtc" : 0.0,
+      "maxCtc" : 637173.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : null,
+      "jobTitle" : "EY GDS",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-08-13 14:18:06",
+      "jobApplyBy" : "2022-08-15 00:00:00",
+      "hiringStartDate" : "2022-08-15 00:00:00",
+      "location" : "PAN INDIA",
+      "duration" : null,
+      "jobTag" : "Analytics",
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 175,
+      "companyName" : "EY",
+      "webSiteLink" : "ey.com",
+      "imagePath" : "",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 852,
+      "isPublished" : true,
+      "createdBy" : "kb_dainy",
+      "createdDate" : "2022-08-13 14:18:06",
+      "lastModifiedBy" : "kb_dainy",
+      "lastModifiedDate" : "2022-08-14 21:44:34",
+      "genders" : [ "MALE", "FEMALE" ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "08:00:00",
+      "categoryId" : null,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/241"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/241"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/175"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/241"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/{id}",
+          "templated" : true
+        }
+      }
+    }, {
+      "id" : 240,
+      "minCtc" : 0.0,
+      "maxCtc" : 600000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 2,
+      "jobTitle" : "Vitesco Technologies for BTech 2023 batch",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-08-12 16:19:00",
+      "jobApplyBy" : "2022-08-14 00:00:00",
+      "hiringStartDate" : null,
+      "location" : "Bangalore",
+      "duration" : null,
+      "jobTag" : null,
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 174,
+      "companyName" : "Vitesco Technologies",
+      "webSiteLink" : "vitesco.com",
+      "imagePath" : "",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 288,
+      "isPublished" : true,
+      "createdBy" : "r_maya",
+      "createdDate" : "2022-08-12 16:19:00",
+      "lastModifiedBy" : "bhruguj",
+      "lastModifiedDate" : "2022-08-14 12:35:03",
+      "genders" : [ ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "15:00:00",
+      "categoryId" : 2,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/240"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/240"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/174"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/240"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/2"
+        }
+      }
+    }, {
+      "id" : 242,
+      "minCtc" : 0.0,
+      "maxCtc" : 861000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 2,
+      "jobTitle" : "Verizon ",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-08-13 16:24:53",
+      "jobApplyBy" : "2022-08-16 00:00:00",
+      "hiringStartDate" : "2022-08-26 00:00:00",
+      "location" : "Chennai & Hyderabad",
+      "duration" : null,
+      "jobTag" : null,
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 177,
+      "companyName" : "Verizon",
+      "webSiteLink" : "www.verizon.com",
+      "imagePath" : "",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 274,
+      "isPublished" : true,
+      "createdBy" : "r_maya",
+      "createdDate" : "2022-08-13 16:24:53",
+      "lastModifiedBy" : "r_maya",
+      "lastModifiedDate" : "2022-08-13 16:24:53",
+      "genders" : [ ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "10:00:00",
+      "categoryId" : 4,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/242"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/242"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/177"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/242"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/4"
+        }
+      }
+    }, {
+      "id" : 136,
+      "minCtc" : 900000.0,
+      "maxCtc" : 100000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 4,
+      "jobTitle" : "PwC Hiring : Associate /Consultant level",
+      "jobStatus" : "CLOSED",
+      "jobPostedDate" : "2022-07-06 10:46:51",
+      "jobApplyBy" : "2022-07-08 00:00:00",
+      "hiringStartDate" : "2022-07-27 00:00:00",
+      "location" : "any Pwc office location",
+      "duration" : null,
+      "jobTag" : null,
+      "workType" : "REGULAR",
+      "noOfOpenings" : "50",
+      "incentives" : [ ],
+      "stipendType" : "BETWEEN",
+      "jobStartDate" : null,
+      "companyId" : 84,
+      "companyName" : "PwC",
+      "webSiteLink" : "http://www.pwc.in/",
+      "imagePath" : "84.jpg",
+      "studentSearchEnum" : "NONE",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 744,
+      "isPublished" : true,
+      "createdBy" : "ajishasurendran",
+      "createdDate" : "2022-07-06 10:46:51",
+      "lastModifiedBy" : "bhruguj",
+      "lastModifiedDate" : "2022-08-13 13:47:46",
+      "genders" : [ "MALE", "FEMALE" ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "13:00:00",
+      "categoryId" : 3,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/136"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/136"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/84"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/136"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/3"
+        }
+      }
+    }, {
+      "id" : 230,
+      "minCtc" : 0.0,
+      "maxCtc" : 1424820.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 3,
+      "jobTitle" : "Maxlinear - hiring Engineer profile -2023 POB",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-08-04 15:55:52",
+      "jobApplyBy" : "2022-08-13 00:00:00",
+      "hiringStartDate" : null,
+      "location" : "Bangalore/ Chennai",
+      "duration" : null,
+      "jobTag" : null,
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 52,
+      "companyName" : "Max Linear",
+      "webSiteLink" : "https://www.maxlinear.com/",
+      "imagePath" : "52.png",
+      "studentSearchEnum" : "NONE",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 372,
+      "isPublished" : true,
+      "createdBy" : "anaghasuresh",
+      "createdDate" : "2022-08-04 15:55:52",
+      "lastModifiedBy" : "bhruguj",
+      "lastModifiedDate" : "2022-08-13 13:41:49",
+      "genders" : [ ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "15:30:00",
+      "categoryId" : 4,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/230"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/230"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/52"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/230"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/4"
+        }
+      }
+    }, {
+      "id" : 198,
+      "minCtc" : 0.0,
+      "maxCtc" : 1200000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 3,
+      "jobTitle" : "AppViewX Placement Drive - B.Tech 2023 Drive",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-07-20 11:40:58",
+      "jobApplyBy" : "2022-07-22 00:00:00",
+      "hiringStartDate" : "2022-07-25 00:00:00",
+      "location" : "Coimbatore",
+      "duration" : null,
+      "jobTag" : "Software Development",
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 119,
+      "companyName" : "AppViewX ",
+      "webSiteLink" : "https://www.appviewx.com/",
+      "imagePath" : "",
+      "studentSearchEnum" : "STUDENTS_NOT_OFFERED",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 852,
+      "isPublished" : true,
+      "createdBy" : "kb_dainy",
+      "createdDate" : "2022-07-20 11:40:58",
+      "lastModifiedBy" : "v_nivin",
+      "lastModifiedDate" : "2022-08-12 16:22:06",
+      "genders" : [ "MALE", "FEMALE" ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "12:00:00",
+      "categoryId" : 4,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/198"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/198"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/119"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/198"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/4"
+        }
+      }
+    }, {
+      "id" : 222,
+      "minCtc" : 0.0,
+      "maxCtc" : 550000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 3,
+      "jobTitle" : "TheMathCompany for BTech & MCA",
+      "jobStatus" : "CLOSED",
+      "jobPostedDate" : "2022-08-01 14:22:20",
+      "jobApplyBy" : "2022-08-11 00:00:00",
+      "hiringStartDate" : "2022-08-02 00:00:00",
+      "location" : "Bangalore",
+      "duration" : null,
+      "jobTag" : null,
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 92,
+      "companyName" : "TheMathCompany",
+      "webSiteLink" : "",
+      "imagePath" : "92.png",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 1283,
+      "isPublished" : true,
+      "createdBy" : "r_maya",
+      "createdDate" : "2022-08-01 14:22:20",
+      "lastModifiedBy" : "r_maya",
+      "lastModifiedDate" : "2022-08-12 11:01:36",
+      "genders" : [ ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "23:10:00",
+      "categoryId" : 1,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/222"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/222"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/92"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/222"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/1"
+        }
+      }
+    }, {
+      "id" : 143,
+      "minCtc" : 0.0,
+      "maxCtc" : 450000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 3,
+      "jobTitle" : "TheMathCompany (TO DELETE)",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-07-07 17:01:17",
+      "jobApplyBy" : "2022-07-08 00:00:00",
+      "hiringStartDate" : "2022-07-16 00:00:00",
+      "location" : "Bangalore",
+      "duration" : null,
+      "jobTag" : null,
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 92,
+      "companyName" : "TheMathCompany",
+      "webSiteLink" : "",
+      "imagePath" : "92.png",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 704,
+      "isPublished" : true,
+      "createdBy" : "v_nivin",
+      "createdDate" : "2022-07-07 17:01:17",
+      "lastModifiedBy" : "r_maya",
+      "lastModifiedDate" : "2022-08-12 11:00:38",
+      "genders" : [ ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "14:00:00",
+      "categoryId" : 1,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/143"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/143"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/92"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/143"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/1"
+        }
+      }
+    }, {
+      "id" : 188,
+      "minCtc" : 0.0,
+      "maxCtc" : 950000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 3,
+      "jobTitle" : "Toshiba - B.Tech 2023 Batch",
+      "jobStatus" : "CLOSED",
+      "jobPostedDate" : "2022-07-14 10:18:34",
+      "jobApplyBy" : "2022-07-18 00:00:00",
+      "hiringStartDate" : "2022-07-25 00:00:00",
+      "location" : "Bangalore",
+      "duration" : null,
+      "jobTag" : "Software Development",
+      "workType" : "REGULAR",
+      "noOfOpenings" : "30",
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 109,
+      "companyName" : "Toshiba",
+      "webSiteLink" : "http://www.toshiba-tsip.com",
+      "imagePath" : "",
+      "studentSearchEnum" : "STUDENTS_NOT_OFFERED",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 918,
+      "isPublished" : true,
+      "createdBy" : "kb_dainy",
+      "createdDate" : "2022-07-14 10:18:34",
+      "lastModifiedBy" : "v_nivin",
+      "lastModifiedDate" : "2022-08-11 16:49:57",
+      "genders" : [ "MALE", "FEMALE" ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "10:00:00",
+      "categoryId" : 4,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/188"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/188"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/109"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/188"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/4"
+        }
+      }
+    }, {
+      "id" : 235,
+      "minCtc" : 0.0,
+      "maxCtc" : 1263000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 3,
+      "jobTitle" : "John Deere India - Campus hiring",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-08-08 16:33:24",
+      "jobApplyBy" : "2022-08-12 00:00:00",
+      "hiringStartDate" : null,
+      "location" : "Pune",
+      "duration" : null,
+      "jobTag" : null,
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 161,
+      "companyName" : "John Deere India",
+      "webSiteLink" : "https://www.deere.co.in/en/our-company/john-deere-careers/",
+      "imagePath" : "",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 702,
+      "isPublished" : true,
+      "createdBy" : "r_maya",
+      "createdDate" : "2022-08-08 16:33:24",
+      "lastModifiedBy" : "r_maya",
+      "lastModifiedDate" : "2022-08-11 16:16:08",
+      "genders" : [ ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "09:00:00",
+      "categoryId" : 4,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/235"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/235"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/161"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/235"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/4"
+        }
+      }
+    }, {
+      "id" : 237,
+      "minCtc" : 0.0,
+      "maxCtc" : 1245000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 4,
+      "jobTitle" : "Micro Focus - campus hiring 2023 batch (BTech)",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-08-11 14:56:51",
+      "jobApplyBy" : "2022-08-12 00:00:00",
+      "hiringStartDate" : "2022-08-13 00:00:00",
+      "location" : "Bangalore",
+      "duration" : null,
+      "jobTag" : null,
+      "workType" : "REGULAR",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 170,
+      "companyName" : "Micro Focus",
+      "webSiteLink" : "www.microfocus.com/en-us/home",
+      "imagePath" : "",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 508,
+      "isPublished" : true,
+      "createdBy" : "r_maya",
+      "createdDate" : "2022-08-11 14:56:51",
+      "lastModifiedBy" : "r_maya",
+      "lastModifiedDate" : "2022-08-11 14:56:51",
+      "genders" : [ ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "13:00:00",
+      "categoryId" : 3,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/237"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/237"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/170"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/237"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/3"
+        }
+      }
+    }, {
+      "id" : 206,
+      "minCtc" : 0.0,
+      "maxCtc" : 625000.0,
+      "payType" : "PER_ANNUM",
+      "internWithPrePlacement" : null,
+      "skillsRequired" : null,
+      "jobType" : "FULL_TIME",
+      "noOfRounds" : 3,
+      "jobTitle" : "MapleLabs Solutions- B.E/B. Tech, M. Tech, MCA- 2023",
+      "jobStatus" : "IN_PROGRESS",
+      "jobPostedDate" : "2022-07-25 11:22:14",
+      "jobApplyBy" : "2022-07-28 00:00:00",
+      "hiringStartDate" : "2022-08-22 00:00:00",
+      "location" : null,
+      "duration" : null,
+      "jobTag" : "Engineering",
+      "workType" : "WORK_FROM_HOME",
+      "noOfOpenings" : null,
+      "incentives" : [ ],
+      "stipendType" : "FIXED",
+      "jobStartDate" : null,
+      "companyId" : 131,
+      "companyName" : "MapleLabs Solutions",
+      "webSiteLink" : "www.maplelabs.com",
+      "imagePath" : "",
+      "studentSearchEnum" : "ALL_STUDENTS_WITH_POLICY",
+      "respectPlacementPolicy" : true,
+      "respectJobOffer" : true,
+      "isMassRecruiting" : false,
+      "appliedCount" : 577,
+      "isPublished" : true,
+      "createdBy" : "kb_dainy",
+      "createdDate" : "2022-07-25 11:22:14",
+      "lastModifiedBy" : "kb_dainy",
+      "lastModifiedDate" : "2022-08-10 14:53:27",
+      "genders" : [ "MALE", "FEMALE" ],
+      "batchPassedOutYear" : [ ],
+      "jobApplyTime" : "15:00:00",
+      "categoryId" : 3,
+      "jobStatusMap" : {
+        "IN_PROGRESS" : "IN_PROGRESS",
+        "CLOSED" : "CLOSED",
+        "YET_TO_OPEN" : "YET_TO_OPEN"
+      },
+      "jobTypeMap" : {
+        "INTERN" : "INTERN",
+        "Internship With Pre Placement Offer" : "INTERNSHIP_WITH_FULL_TIME",
+        "FULL_TIME" : "FULL_TIME",
+        "CONTRACT_TO_HIRE" : "CONTRACT_TO_HIRE"
+      },
+      "stipendTypeMap" : {
+        "Performance Based" : "PERFORMANCE_BASED",
+        "Between" : "BETWEEN",
+        "Unpaid" : "UNPAID",
+        "Fixed" : "FIXED"
+      },
+      "_links" : {
+        "self" : {
+          "href" : "https://app.haveloc.com/brokerage/jobViews/206"
+        },
+        "delete" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs/206"
+        },
+        "save" : {
+          "href" : "https://app.haveloc.com/brokerage/jobs"
+        },
+        "all" : {
+          "href" : "https://app.haveloc.com/brokerage/jobSubViews?respectConfigProp=true"
+        },
+        "companyLink" : {
+          "href" : "https://app.haveloc.com/brokerage/companies/131"
+        },
+        "jobFormLink" : {
+          "href" : "https://app.haveloc.com/brokerage/downloadJobForm/jobId/206"
+        },
+        "policy-category-link" : {
+          "href" : "https://app.haveloc.com/brokerage/policyCat/3"
+        }
+      }
+    } ]
+  },
+  "_links" : {
+    "first" : {
+      "href" : "https://app.haveloc.com/brokerage/jobSubViews?page=0&size=20&sort=lastModifiedDate,desc"
     },
-    "page": {
-        "size": 20,
-        "totalElements": 55,
-        "totalPages": 3,
-        "number": 0
+    "self" : {
+      "href" : "https://app.haveloc.com/brokerage/jobSubViews{?respectConfigProp}",
+      "templated" : true
+    },
+    "next" : {
+      "href" : "https://app.haveloc.com/brokerage/jobSubViews?page=1&size=20&sort=lastModifiedDate,desc"
+    },
+    "last" : {
+      "href" : "https://app.haveloc.com/brokerage/jobSubViews?page=3&size=20&sort=lastModifiedDate,desc"
     }
+  },
+  "page" : {
+    "size" : 20,
+    "totalElements" : 66,
+    "totalPages" : 4,
+    "number" : 0
+  }
 }
